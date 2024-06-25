@@ -32,7 +32,7 @@ function reset() {
     clearInterval(tInterval);
     running = false;
     difference = 0;
-    display.innerHTML = '00 : 00 : 00 : 00';
+    display.innerHTML = '00:00:00:00';
     startStopBtn.innerHTML = 'Start';
     lapsList.innerHTML = '';
     lapCount = 0;
