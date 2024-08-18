@@ -1,4 +1,4 @@
 
 # Stopwatch Web Application
 
-[stopwatch](https://adarshmadhusoodanan.github.io/PRODIGY_WD_02/)
+[stopwatch](https://adarshmadhusoodanan.github.io/Sample-Portfolio/)
